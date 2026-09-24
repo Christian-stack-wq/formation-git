@@ -7,4 +7,4 @@ class Produit:
         print(f"Nom : {self.nom}")
         print(f"Prix : {self.prix:,} Ar")
         print(f"Stock : {self.stock}")
-        
+        print("Informations du produit :")
