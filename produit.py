@@ -17,3 +17,4 @@ class Produit:
         print("Modification faite directement sur GitHub")
         print("Test de git fetch")
         print("Modification locale")
+        print("Modification distante")
