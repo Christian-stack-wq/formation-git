@@ -14,3 +14,4 @@ class Produit:
     def afficher_nom(self):
         print(f"Nom du produit : {self.nom}")
         print(f"Stock : {self.stock}")
+        print("Modification faite directement sur GitHub")
