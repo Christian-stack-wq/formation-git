@@ -13,3 +13,4 @@ class Produit:
         print("Ce produit est frais")
     def afficher_nom(self):
         print(f"Nom du produit : {self.nom}")
+        print(f"Stock : {self.stock}")
