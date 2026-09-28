@@ -11,3 +11,5 @@ class Produit:
         print(f"Valeur du stock : {self.prix * self.stock:,} Ar")
     def afficher_supplementaire(self):
         print("Ce produit est frais")
+    def afficher_nom(self):
+        print(f"Nom du produit : {self.nom}")
