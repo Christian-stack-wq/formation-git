@@ -16,3 +16,4 @@ class Produit:
         print(f"Stock : {self.stock}")
         print("Modification faite directement sur GitHub")
         print("Test de git fetch")
+        print("Modification locale")
