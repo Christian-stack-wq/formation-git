@@ -9,3 +9,5 @@ class Produit:
         print(f"Stock : {self.stock}")
         print("Informations du produit :")
         print(f"Valeur du stock : {self.prix * self.stock:,} Ar")
+    def afficher_supplementaire(self):
+        print("Ce produit est frais")
