@@ -15,3 +15,4 @@ class Produit:
         print(f"Nom du produit : {self.nom}")
         print(f"Stock : {self.stock}")
         print("Modification faite directement sur GitHub")
+        print("Test de git fetch")
