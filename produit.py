@@ -8,3 +8,4 @@ class Produit:
         print(f"Prix : {self.prix:,} Ar")
         print(f"Stock : {self.stock}")
         print("Informations du produit :")
+        print(f"Valeur du stock : {self.prix * self.stock:,} Ar")
